@@ -6,7 +6,7 @@ B.Tech CSE (AI/ML) @ ANITS · Graduating 2027 · CGPA 9.5 · ML Intern @ Interns
 
 - Full-stack AI-powered web apps (usability analysis, performance auditing)
 - Computer vision systems for real-time detection and optimization
-- End-to-end ML pipelines — from data preprocessing to deployed predictions
+- End-to-end ML pipelines - from data preprocessing to deployed predictions
 
 ## Stack I reach for
 
