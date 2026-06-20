@@ -1,6 +1,6 @@
 # Hi, I'm Sai Poojitha Nuka 
 
-B.Tech CSE (AI/ML) @ ANITS · Graduating 2027 · CGPA 9.5 · ML Intern @ Internshala
+B.Tech CSE (AI/ML) @ ANITS | CGPA 9.5 | Machine Learning & Full-Stack Developer | Building AI-Powered Applications
 
 ## What I build
 
