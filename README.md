@@ -20,8 +20,6 @@ B.Tech CSE (AI/ML) @ ANITS | CGPA 9.5 | Machine Learning & Full-Stack Developer 
 ![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
 ![OpenCV](https://img.shields.io/badge/OpenCV-ComputerVision-red)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=poojitha1603&show_icons=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=poojitha1603&layout=compact)
 
 📫 poojithanuka36@gmail.com
